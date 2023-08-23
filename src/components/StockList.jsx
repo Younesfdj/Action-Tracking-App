@@ -6,7 +6,6 @@ import { useNavigate } from "react-router-dom";
 
 export const StockList = () => {
   const [stockData, setStockData] = useState([]);
-  const [showRemove, setShowRemove] = useState(false);
   const { watchList, handleRemove } = useGlobalContext();
   const navigate = useNavigate();
 
