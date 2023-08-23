@@ -41,5 +41,5 @@ The Action Tracking App is a web application built with React, Vite, and Bootstr
 
 ## Usage
 
-    - Watchlist Page: Access the watchlist page to view and manage tracked enterprises with their relevant information.
-    - Chart Page: Navigate to the chart page to visualize the tracked enterprise data with real-time updates.
+- #Watchlist Page: Access the watchlist page to view and manage tracked enterprises with their relevant information.
+- #Chart Page: Navigate to the chart page to visualize the tracked enterprise data with real-time updates.
