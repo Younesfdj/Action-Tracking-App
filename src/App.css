@@ -1,0 +1,17 @@
+li {
+  cursor: pointer;
+  width: auto;
+  padding-left: 16px;
+}
+li:hover {
+  background-color: rgb(147, 216, 216);
+}
+.delete-button {
+  visibility: hidden;
+  display: inline-block;
+}
+
+/* on hover we can select .delete-button class */
+.table-row:hover .delete-button {
+  visibility: visible;
+}
